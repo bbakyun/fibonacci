@@ -4,6 +4,10 @@ Implement fibonacci function that get k as a parameter, and return k-th fibonacc
 For example, if k = 5, then the function fibonacci(5) should return 5
 """
 
+"""
+Hi! This is message from NaJiwoong
+"""
+
 def fibonacci1(k):
     """using iteration"""
     return 0
